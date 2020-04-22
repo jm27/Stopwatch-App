@@ -457,6 +457,7 @@ input[type="radio"] {
   grid-column: 1 / span 2;
   background: none;
   border: none;
+  padding-top: 15px;
 }
 .fa-plus {
   font-size: 60px;
@@ -528,6 +529,12 @@ input[type="radio"] {
   display: grid;
   grid-template-columns: auto auto;
   grid-template-rows: auto;
+}
+
+/* Footer */
+.footer{
+font-family: "Orbitron", sans-serif; 
+text-align: center;
 }
 /* Media Query for small screens */
 
